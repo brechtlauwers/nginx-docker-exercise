@@ -1,5 +1,6 @@
 # nginx docker exercise
- This is assignment 1 from Cloud Fundamentals for AI
+Brecht Lauwers r0830649
+ This is assignment 1 from Cloud Fundamentals for AI  
 
 Docker and docker-compose are required!
 
